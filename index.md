@@ -10,18 +10,18 @@ I've been working with several languages recently:
 * C++
 
 ### My To-Do List
-- [ ] Wake up
+- [ ] Wake up early
 - [ ] Go Work Out
 - [ ] Go to class
 - [ ] Hang out with friends and get some food
 
 ### Learning Goals
-1. Master Vector Databases
+1. Complete more LeetCode problems especially the Neetcode150
 2. Implement RAG for AI projects
-3. Secure a FAANG internship
+3. Secure a FAANG internship 
 
 ## Favorite Quote
-> "The only way to do great work is to love what you do."
+> "You either die a hero, or you live long enough to see yourself become the villain"
 
 ## Sample Code
 Here is a small snippet of a C "Hello World":
@@ -31,6 +31,7 @@ int main() {
    printf("Hello, World!");
    return 0;
 }
+```
 
 [View my Command Line Screenshot](./screenshots/Screenshot 2026-04-07 at 4.01.46 PM.png)
 
