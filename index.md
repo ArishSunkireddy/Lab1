@@ -21,7 +21,7 @@ I've been working with several languages recently:
 3. Secure a FAANG internship 
 
 ## Favorite Quote
-> "You either die a hero, or you live long enough to see yourself become the villain"
+> "You either die a hero, or you live long enough to see yourself become the villain" - The Dark Knight
 
 ## Sample Code
 Here is a small snippet of a C "Hello World":
