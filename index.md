@@ -10,7 +10,7 @@ I've been working with several languages recently:
 * C++
 
 ### My To-Do List
-- [ ] Wake up
+- [ ] Wake up early
 - [ ] Go Work Out
 - [ ] Go to class
 - [ ] Hang out with friends and get some food
