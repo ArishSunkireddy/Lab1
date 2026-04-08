@@ -33,6 +33,6 @@ int main() {
 }
 ```
 
-[View my Command Line Screenshot](./screenshots/Screenshot 2026-04-07 at 4.01.46 PM.png)
+[View my Command Line Screenshot](./screenshots/commands.png)
 
 [Go back to the top of the page](#arish-sunkireddys-personal-page)
