@@ -18,7 +18,7 @@ I've been working with several languages recently:
 ### Learning Goals
 1. Complete more LeetCode problems especially the Neetcode150
 2. Implement RAG for AI projects
-3. Secure a FAANG internship
+3. Secure a FAANG internship 
 
 ## Favorite Quote
 > "You either die a hero, or you live long enough to see yourself become the villain"
