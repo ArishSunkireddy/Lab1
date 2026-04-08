@@ -10,7 +10,7 @@ I've been working with several languages recently:
 * C++
 
 ### My To-Do List
-- [ ] Wake up early
+- [ ] Wake up early morning
 - [ ] Go Work Out
 - [ ] Go to class
 - [ ] Hang out with friends and get some food
@@ -21,7 +21,7 @@ I've been working with several languages recently:
 3. Secure a FAANG internship 
 
 ## Favorite Quote
-> "You either die a hero, or you live long enough to see yourself become the villain"
+> "You either die a hero, or you live long enough to see yourself become the villain" - The Dark Knight
 
 ## Sample Code
 Here is a small snippet of a C "Hello World":
@@ -33,6 +33,6 @@ int main() {
 }
 ```
 
-[View my Command Line Screenshot](./screenshots/Screenshot 2026-04-07 at 4.01.46 PM.png)
+[View my Command Line Screenshot](./screenshots/commands.png)
 
 [Go back to the top of the page](#arish-sunkireddys-personal-page)
